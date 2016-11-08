@@ -64,6 +64,6 @@ export function vk(url, { title, description, image }) {
     url,
     title,
     description,
-    image
+    image,
   });
 }
